@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm BRAIMI HAMZA</h1>
-<h3 align="center">Software Engineer | Business intelligence | Data Scientist  </h3>
+<h3 align="center">Software Engineer  | Data Scientist  </h3>
 
 <table>
 <tr>
   <td valign="center">
  
-- 🔭 I’m currently prepper my graduation
+- 🔭 I’m currently a Software Engineer
 - 🌱 I’m currently learning How to live
 - 👯 I’m looking to collaborate with other content creators
-- 🥅  My Goals: Contribute more to Open Source projects & learn more about AI/ML
+- 🥅  My Goals: get My MBA Diploma
 - ⚡ Fun fact:
    </td>
    <td valign="center">
